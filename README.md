@@ -36,7 +36,7 @@ MATLAB R2023b
 
 ### Install
 
-1. Download the [Source Code](https://github.com/OpenCode666/muCeiver-Fi) and [Dataset](https://zenodo.org/records/16209360).
+1. Download the [Source Code](https://github.com/DeepWiSe888/muCeiver-Fi) and [Dataset](https://zenodo.org/records/16209360).
 
 2. Install Python: Please ensure Python 3.8.16 is installed on your computer. You can also download the Python source from the [official website](https://www.python.org/).
 
